@@ -24,7 +24,7 @@ gem 'carrierwave'
 
 gem 'bootstrap-sass'
 
-gem 'image_magick'
+gem 'mini_magick'
 
 gem 'pg', group: :production
 
